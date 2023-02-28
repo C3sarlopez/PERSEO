@@ -12,26 +12,39 @@ Para 2025, el 70 % de las nuevas implementaciones de gestión de acceso, gobiern
 
 ![image](https://user-images.githubusercontent.com/125513704/221887837-33bdde9a-09d9-4002-ad7e-623e7cf8e1ce.png)
 
-Líderes de IAM: Planeen adoptar estas 6 tendencias de administración de acceso e identidad:
+Líderes de IAM: Planeen adoptar estas 6 tendencias de administración de acceso e identidad
+
+![image](https://user-images.githubusercontent.com/126510841/221975816-bf286679-5596-4aef-adcd-02fd48846437.png)
+
 N.º 1: la informática conectada en cualquier lugar impulsará aún más la necesidad de un control de acceso más inteligente
 La transición a una informática más remota y conectada en cualquier lugar impone mayores exigencias a las implementaciones de administración de acceso. Las plataformas de gestión de acceso deben volverse cada vez más sofisticadas para diferenciar entre usuarios válidos y bots maliciosos o estafadores sin molestar a los usuarios legítimos.
+
+![image](https://user-images.githubusercontent.com/126510841/221979395-3231e69a-8871-414c-9d30-5dcc24e4eb6c.png)
 
 No. 2: Mejorar la experiencia del usuario para todos los usuarios será esencial para un negocio digital seguro
 Con el aumento del número y la importancia de las interacciones digitales, el listón sigue subiendo para ofrecer una gran experiencia de usuario total. Gartner estima que para 2024, las organizaciones que lo hagan superarán a sus competidores en un 25 % en métricas de satisfacción tanto para la experiencia del cliente como para la del empleado.
 
+![image](https://user-images.githubusercontent.com/126510841/221979519-37e47d46-235e-4be0-9c49-376ff71a27fb.png)
+
 No. 3: Claves, secretos, certificados y máquinas requerirán más atención
 El aumento de la cantidad de máquinas y su uso en entornos híbridos y multinube está obligando a las organizaciones a reformular sus estrategias de IAM.
 
+![image](https://user-images.githubusercontent.com/126510841/221978874-070ce278-cc03-4188-9ab7-eb72d58e3ce5.png)
+
 No. 4: Las nuevas aplicaciones y API deberán aprovechar las últimas pautas de desarrollo de IAM
 Asegúrese también de que las nuevas aplicaciones de todas las fuentes se desarrollen, obtengan e incorporen de forma segura. Para hacerlo, implemente el control de acceso a API (autenticación y autorización de API), que es una parte vital de la seguridad de API, junto con el descubrimiento de API y la protección contra amenazas de API. Para tener éxito, defina su estrategia y establezca un equipo multifuncional que involucre a profesionales, como desarrolladores, equipos de DevOps, nube, seguridad e IAM, para ayudar a establecer las medidas de protección adecuadas y las pautas de control de acceso a API.
+
+![image](https://user-images.githubusercontent.com/126510841/221978378-7d9e2080-5159-457f-8416-36ca1850b12a.png)
 
 N.° 5: La nube híbrida y la multinube impulsarán el mantenimiento/evolución continuos de la arquitectura de IAM
 A medida que las organizaciones mueven más activos digitales a entornos multinube descentralizados y operan en un entorno de TI híbrido, es fundamental agregar controles de compensación automatizados maduros.
 Integre el gobierno y la administración de identidades (IGA), PAM y las soluciones de gestión de derechos de infraestructura en la nube (CIEM) para lograr una gestión y un gobierno coherentes de las identidades y los derechos en todos los entornos. La integración de PAM e IGA es esencial para asegurar y administrar el acceso a entornos locales y en la nube, donde todavía existen cuentas privilegiadas de larga data. Las ofertas de CIEM garantizan que el acceso a los puntos finales de la infraestructura de la nube se controle activamente. Las herramientas de CIEM utilizan análisis y aprendizaje automático para detectar anomalías en los derechos de cuenta, como derechos inactivos y excesivos.
 
-![image](https://user-images.githubusercontent.com/126510841/221971764-94544499-9c31-4382-91ea-a9c5d198ba93.png)
-![image](https://user-images.githubusercontent.com/126510841/221971964-4134407c-6dbf-43d5-b629-6ebeb819573f.png)
-![image](https://user-images.githubusercontent.com/126510841/221972116-e0b46228-bea5-41b2-a9d0-3b7843de956e.png)
+![image](https://user-images.githubusercontent.com/126510841/221977603-11b401ea-9a48-4317-ae0c-9085c636259f.png)
+
+![image](https://user-images.githubusercontent.com/126510841/221977911-4dceac6e-2948-4503-a8c0-c92ad5e6529c.png)
+
+![image](https://user-images.githubusercontent.com/126510841/221977932-116fad6b-2861-47b8-a642-fa8ff9c2cad9.png)
 
 No. 6: Las funciones de IGA evolucionarán para permitir una arquitectura descentralizada
 El ritmo acelerado de la digitalización y la adopción de la nube requiere más soporte, incluso para identidades en entornos de TI híbridos, identidades en múltiples plataformas de nube e identidades de máquinas.
