@@ -29,6 +29,9 @@ N.° 5: La nube híbrida y la multinube impulsarán el mantenimiento/evolución 
 A medida que las organizaciones mueven más activos digitales a entornos multinube descentralizados y operan en un entorno de TI híbrido, es fundamental agregar controles de compensación automatizados maduros.
 Integre el gobierno y la administración de identidades (IGA), PAM y las soluciones de gestión de derechos de infraestructura en la nube (CIEM) para lograr una gestión y un gobierno coherentes de las identidades y los derechos en todos los entornos. La integración de PAM e IGA es esencial para asegurar y administrar el acceso a entornos locales y en la nube, donde todavía existen cuentas privilegiadas de larga data. Las ofertas de CIEM garantizan que el acceso a los puntos finales de la infraestructura de la nube se controle activamente. Las herramientas de CIEM utilizan análisis y aprendizaje automático para detectar anomalías en los derechos de cuenta, como derechos inactivos y excesivos.
 
+![image](https://user-images.githubusercontent.com/126510841/221971764-94544499-9c31-4382-91ea-a9c5d198ba93.png)
+![image](https://user-images.githubusercontent.com/126510841/221971964-4134407c-6dbf-43d5-b629-6ebeb819573f.png)
+![image](https://user-images.githubusercontent.com/126510841/221972116-e0b46228-bea5-41b2-a9d0-3b7843de956e.png)
 
 No. 6: Las funciones de IGA evolucionarán para permitir una arquitectura descentralizada
 El ritmo acelerado de la digitalización y la adopción de la nube requiere más soporte, incluso para identidades en entornos de TI híbridos, identidades en múltiples plataformas de nube e identidades de máquinas.
