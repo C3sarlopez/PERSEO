@@ -1,5 +1,5 @@
 # PERSEO
-               ![image](https://user-images.githubusercontent.com/125513880/221920126-2961e1d3-47c6-4631-b846-fefe27851836.png)
+![image](https://user-images.githubusercontent.com/125513880/221920126-2961e1d3-47c6-4631-b846-fefe27851836.png)
 
 Identidad y Gestión de Acceso
 
