@@ -1,5 +1,5 @@
 # PERSEO
-###TYERCERP
+
 Identidad y Gestión de Acceso
 
 La creciente visibilidad de la gestión de identidades y accesos (IAM) se debe a la alta prioridad de asegurar el acceso remoto y la mayor protección necesaria en torno a las iniciativas de transformación digital. Los líderes de IAM deben mejorar la gobernanza y fortalecer las prácticas de administración de acceso privilegiado para evitar infracciones, establecer una autenticación y autorización más sólidas y ágiles, y mejorar la IAM del consumidor para prevenir el fraude y proteger la privacidad.
