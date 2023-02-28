@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/125513880/221920126-2961e1d3-47c6-4631-b846-fefe27851836.png)
 
 Identidad y Gestión de Acceso
-La gestión de identidades y accesos, o IAM, 
+La gestión de identidades y accesos o IAM
 es la disciplina de seguridad que hace posible que las entidades correctas (personas o cosas) usen los recursos correctos (aplicaciones o datos) cuando los necesitan, sin interferencias, usando los dispositivos que quieran utilizar.
 
 
